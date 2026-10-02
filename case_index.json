@@ -1,0 +1,318 @@
+[
+ {
+  "n": 1,
+  "name": "Hirotatsu Fujii and Fujii Mold — Executive Due Diligence",
+  "skills": [
+   "Corporate Due Diligence",
+   "Ownership Research",
+   "Supplier Intelligence",
+   "Supply Chain Intelligence",
+   "Industrial Intelligence",
+   "Entity Resolution",
+   "Regulatory Research",
+   "Patent Research",
+   "Adverse Media Research",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "China",
+   "Japan",
+   "USA"
+  ],
+  "file": "Hirotatsu Fujii and Fujii Mold — Executive Due Diligence_Formatted.docx"
+ },
+ {
+  "n": 2,
+  "name": "Fukuyama Rubber Industry — Supplier Due Diligence Brief",
+  "skills": [
+   "Corporate Due Diligence",
+   "Ownership Research",
+   "Supplier Intelligence",
+   "Customer Intelligence",
+   "Industrial Intelligence",
+   "Regulatory Research",
+   "Adverse Media Research",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan"
+  ],
+  "file": "Fukuyama Rubber Industry — Supplier Due Diligence Brief_Formatted.docx"
+ },
+ {
+  "n": 3,
+  "name": "Matsumoto Precision — Corporate Due Diligence",
+  "skills": [
+   "Corporate Due Diligence",
+   "Ownership Research",
+   "Customer Intelligence",
+   "Supply Chain Intelligence",
+   "Industrial Intelligence",
+   "Regulatory Research",
+   "Adverse Media Research",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan",
+   "Vietnam"
+  ],
+  "file": "Matsumoto Precision — Corporate Due Diligence_Formatted.docx"
+ },
+ {
+  "n": 4,
+  "name": "NPO Elektromashina — Customer and Procurement Intelligence",
+  "skills": [
+   "Ownership Research",
+   "Supplier Intelligence",
+   "Customer Intelligence",
+   "Supply Chain Intelligence",
+   "Industrial Intelligence",
+   "Patent Research",
+   "Adverse Media Research",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Russia"
+  ],
+  "file": "NPO Elektromashina — Customer and Procurement Intelligence_Formatted.docx"
+ },
+ {
+  "n": 5,
+  "name": "JSC Penztyazhpromarmatura — Corporate Due Diligence",
+  "skills": [
+   "Corporate Due Diligence",
+   "Ownership Research",
+   "Management Research",
+   "Supplier Intelligence",
+   "Industrial Intelligence",
+   "Regulatory Research",
+   "Adverse Media Research",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Research Automation"
+  ],
+  "geo": [
+   "Russia",
+   "UAE"
+  ],
+  "file": "JSC Penztyazhpromarmatura — Corporate Due Diligence_Formatted.docx"
+ },
+ {
+  "n": 6,
+  "name": "TOO Taraz Prommontazh — Entity Resolution",
+  "skills": [
+   "Ownership Research",
+   "Supplier Intelligence",
+   "Industrial Intelligence",
+   "Entity Resolution",
+   "Regulatory Research",
+   "Adverse Media Research",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Research Automation"
+  ],
+  "geo": [
+   "Russia"
+  ],
+  "file": "TOO Taraz Prommontazh — Entity Resolution_Formatted.docx"
+ },
+ {
+  "n": 7,
+  "name": "Yukigaya Chemical — Supply Chain Traceability",
+  "skills": [
+   "Ownership Research",
+   "Supplier Intelligence",
+   "Supply Chain Intelligence",
+   "Industrial Intelligence",
+   "Regulatory Research",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan",
+   "Thailand"
+  ],
+  "file": "Yukigaya Chemical — Supply Chain Traceability_Formatted.docx"
+ },
+ {
+  "n": 8,
+  "name": "Ōmaki Seiki and NK — Succession Case Study",
+  "skills": [
+   "Supplier Intelligence",
+   "Supply Chain Intelligence",
+   "Industrial Intelligence",
+   "Public Records Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan"
+  ],
+  "file": "Ōmaki Seiki and NK — Succession Case Study_Formatted.docx"
+ },
+ {
+  "n": 9,
+  "name": "Fukushima Seisakusho — Customer Intelligence",
+  "skills": [
+   "Ownership Research",
+   "Supplier Intelligence",
+   "Customer Intelligence",
+   "Industrial Intelligence",
+   "Public Records Research",
+   "GEOINT / Geospatial"
+  ],
+  "geo": [
+   "Japan",
+   "USA"
+  ],
+  "file": "Fukushima Seisakusho — Customer Intelligence_Formatted.docx"
+ },
+ {
+  "n": 10,
+  "name": "Matsuo Electric — Certification Scope Verification",
+  "skills": [
+   "Supplier Intelligence",
+   "Industrial Intelligence",
+   "Regulatory Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan"
+  ],
+  "file": "Matsuo Electric — Certification Scope Verification_Formatted.docx"
+ },
+ {
+  "n": 11,
+  "name": "Tohoku Electronic Industrial — IP and JPO-METI Recognition",
+  "skills": [
+   "Industrial Intelligence",
+   "Regulatory Research",
+   "Patent Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan"
+  ],
+  "file": "Tohoku Electronic Industrial — IP and JPO-METI Recognition_Formatted.docx"
+ },
+ {
+  "n": 12,
+  "name": "AMANA — Vietnam Industrial Supply-Chain Ecosystem",
+  "skills": [
+   "Supplier Intelligence",
+   "Supply Chain Intelligence",
+   "Industrial Intelligence",
+   "GEOINT / Geospatial",
+   "Research Automation"
+  ],
+  "geo": [
+   "China",
+   "Vietnam"
+  ],
+  "file": "AMANA — Vietnam Industrial Supply-Chain Ecosystem_Formatted.docx"
+ },
+ {
+  "n": 13,
+  "name": "Defense-Linked Industrial Integration and Sanctions Exposure Assessment – Penza Industrial Cluster",
+  "skills": [
+   "Industrial Intelligence",
+   "Regulatory Research",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan",
+   "Russia"
+  ],
+  "file": "Defense-Linked Industrial Integration and Sanctions Exposure Assessment – Penza Industrial Cluster_Formatted.docx"
+ },
+ {
+  "n": 14,
+  "name": "Sentinel Copper Mine — Supplier Reliability Assessment",
+  "skills": [
+   "Supplier Intelligence",
+   "Industrial Intelligence",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Zambia"
+  ],
+  "file": "Sentinel Copper Mine — Supplier Reliability Assessment_Formatted.docx"
+ },
+ {
+  "n": 15,
+  "name": "UltraThinBallBearing_Case",
+  "skills": [
+   "Supplier Intelligence",
+   "Supply Chain Intelligence",
+   "Industrial Intelligence",
+   "Competitive Intelligence",
+   "Data Analysis"
+  ],
+  "geo": [
+   "Japan"
+  ],
+  "file": "UltraThinBallBearing_Case_Formatted.docx"
+ },
+ {
+  "n": 16,
+  "name": "Yanbaru Shuzo — D2C Transition Verification",
+  "skills": [
+   "Supplier Intelligence",
+   "Industrial Intelligence",
+   "GEOINT / Geospatial",
+   "Data Analysis",
+   "Research Automation"
+  ],
+  "geo": [
+   "Japan"
+  ],
+  "file": "Yanbaru Shuzo — D2C Transition Verification_Formatted.docx"
+ },
+ {
+  "n": 17,
+  "name": "Rocket Lab LC-1 — Operational Capacity Assessment",
+  "skills": [
+   "Industrial Intelligence",
+   "GEOINT / Geospatial",
+   "Data Analysis"
+  ],
+  "geo": [],
+  "file": "Rocket Lab LC-1 — Operational Capacity Assessment_Formatted.docx"
+ },
+ {
+  "n": 18,
+  "name": "Multimodal Distribution Hub — Throughput and Surge Capacity",
+  "skills": [
+   "GEOINT / Geospatial",
+   "Data Analysis"
+  ],
+  "geo": [
+   "Japan",
+   "USA"
+  ],
+  "file": "Multimodal Distribution Hub — Throughput and Surge Capacity_Formatted.docx"
+ }
+]
